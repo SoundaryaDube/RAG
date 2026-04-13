@@ -1,0 +1,87 @@
+[
+  {
+    "university": "University of Toronto",
+    "country": "Canada",
+    "program": "MS Computer Science",
+    "domain": "Computer Science",
+    "duration_years": 2.0,
+    "tuition_per_year_inr": 1600000,
+    "living_per_year_inr": 750000,
+    "typical_gre": 320,
+    "typical_gpa": 8.0,
+    "avg_start_salary_inr": 6500000
+  },
+  {
+    "university": "University of British Columbia",
+    "country": "Canada",
+    "program": "MS Data Science",
+    "domain": "Data Science",
+    "duration_years": 1.5,
+    "tuition_per_year_inr": 1700000,
+    "living_per_year_inr": 800000,
+    "typical_gre": 318,
+    "typical_gpa": 7.8,
+    "avg_start_salary_inr": 6200000
+  },
+  {
+    "university": "University of Southern California",
+    "country": "US",
+    "program": "MS Computer Science",
+    "domain": "Computer Science",
+    "duration_years": 2.0,
+    "tuition_per_year_inr": 2200000,
+    "living_per_year_inr": 900000,
+    "typical_gre": 325,
+    "typical_gpa": 8.2,
+    "avg_start_salary_inr": 9000000
+  },
+  {
+    "university": "University College London",
+    "country": "UK",
+    "program": "MSc Data Science",
+    "domain": "Data Science",
+    "duration_years": 1.0,
+    "tuition_per_year_inr": 2600000,
+    "living_per_year_inr": 950000,
+    "typical_gre": 315,
+    "typical_gpa": 7.6,
+    "avg_start_salary_inr": 7800000
+  },
+  {
+    "university": "Technical University of Munich",
+    "country": "Germany",
+    "program": "MSc Informatics",
+    "domain": "Computer Science",
+    "duration_years": 2.0,
+    "tuition_per_year_inr": 300000,
+    "living_per_year_inr": 700000,
+    "typical_gre": 305,
+    "typical_gpa": 7.4,
+    "avg_start_salary_inr": 6000000
+  },
+  {
+    "university": "IIT (Top tier)",
+    "country": "India",
+    "program": "MTech Computer Science",
+    "domain": "Computer Science",
+    "duration_years": 2.0,
+    "tuition_per_year_inr": 250000,
+    "living_per_year_inr": 250000,
+    "typical_gre": 0,
+    "typical_gpa": 7.5,
+    "avg_start_salary_inr": 2800000
+  },
+  {
+    "university": "IIM (Top tier)",
+    "country": "India",
+    "program": "MBA",
+    "domain": "MBA",
+    "duration_years": 2.0,
+    "tuition_per_year_inr": 1200000,
+    "living_per_year_inr": 300000,
+    "typical_gre": 0,
+    "typical_gpa": 7.0,
+    "avg_start_salary_inr": 3200000
+  }
+]
+

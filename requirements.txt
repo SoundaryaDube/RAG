@@ -1,0 +1,8 @@
+streamlit
+pydantic
+python-dotenv
+numpy
+scikit-learn
+rapidfuzz
+httpx
+
