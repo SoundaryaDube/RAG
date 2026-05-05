@@ -2,5 +2,4 @@
 TenzorX 2026 National AI Hackathon 
 
 
-Team Members: 
-Soundarya, Chelsi, Idra
+
